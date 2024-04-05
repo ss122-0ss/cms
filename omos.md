@@ -18,16 +18,16 @@ Online Medicine Ordering System backend settings have the function of deleting p
 
 Create a test file 1.php in the root directory
 
-![image-20240405205451734](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240405205451734.png)
+![图片](https://github.com/ss122-0ss/cms/assets/131983607/fa855506-8561-4280-bfd1-6ad3e99c75d9)
+
 
 Log in to the backend and find the location shown in the picture below
 
-![image-20240405205617551](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240405205617551.png)
+![图片](https://github.com/ss122-0ss/cms/assets/131983607/c24a40c6-d6ba-4216-9d92-9d327b8ac526)
 
 
 
 Use burpsuite to capture packets
 
 Modify the path, click send, and return to the status success
-
-![image-20240405205707567](C:\Users\28162\AppData\Roaming\Typora\typora-user-images\image-20240405205707567.png)
+![图片](https://github.com/ss122-0ss/cms/assets/131983607/f0f611bb-c314-4bed-9ab3-5aaa5e431e8f)
